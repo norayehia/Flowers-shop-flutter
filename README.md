@@ -1,4 +1,4 @@
-# plant
+# Flowers
 
 A new Flutter project to help people who love flowers to buy it easily throuh this app .
 
